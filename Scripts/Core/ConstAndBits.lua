@@ -640,7 +640,7 @@ if mmver == 6 then
 		WarriorMage = 14,
 		Druid = 15,
 		GreatDruid = 16,
-		ArchDruid = 17,
+		GreatDruid = 17,
 	}
 elseif mmver == 7 then
 	const.Class = {
@@ -674,7 +674,7 @@ elseif mmver == 7 then
 		PriestDark = 27,
 		Druid = 28,
 		GreatDruid = 29,
-		ArchDruid = 30,
+		GreatDruid = 30,
 		Warlock = 31,
 		Sorcerer = 32,
 		Wizard = 33,
@@ -699,6 +699,8 @@ else
 		Nosferatu = 13,
 		Dragon = 14,
 		GreatWyrm = 15,
+		Druid = 16,
+		GreatDruid = 17
 	}
 end
 

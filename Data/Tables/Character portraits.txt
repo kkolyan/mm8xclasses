@@ -29,3 +29,7 @@
 27	1	1	27	1	-	61	45	0	0	backdoll	pc28bod	none	pc28LHd	pc28LHu	pc28LHo	pc28RHb	pc07lwp1	pc28lhu	pc28RHd	pc28RHu	pc28-	0	0	2928	0
 28	0	0	28	0	-	0	0	0	0	backdolm	pc29bod	none	pc29LHo	pc29LHu	pc29LHu	pc29RHb	pc07lwp1	pc29lhu	pc29RHd	pc29RHu	pc29-	0	0	2929	0
 29	0	0	29	0	-	0	0	0	0	backdoll	pc30bod		pc30LHd	pc30LHu	pc30LHo	pc30RHb	pc07lwp1	pc30lhu	pc30RHd	pc30RHu	pc30-	0	0	2930	0
+30	0	16	4	0	x	29	34	0	0	backdolm	pc05bod	null	pc05LHo	pc05LHu	pc05LHu	pc05RHb	pc07lwp1	pc05lhu	pc05RHd	pc05RHu	pc05-	0	0	2905	0
+31	1	16	5	1	x	60	47	0	0	backdoll	pc06bod	pc06head	pc06LHd	pc06LHu	pc06LHo	pc06RHb	pc18la2b	pc06lhu	pc06RHd	pc06RHu	pc06-	0	0	2906	0
+32	0	16	6	0	x	29	34	0	0	backdolm	pc07bod	null	pc07LHo	pc07LHu	pc07LHu	pc07RHb	pc07lwp1	pc07lhu	pc07RHd	pc07RHu	pc07-	0	0	2907	0
+33	1	16	7	1	x	60	47	0	0	backdoll	pc08bod	pc08head	pc08LHd	pc08LHu	pc08LHo	pc08RHb	pc18la2b	pc08lhu	pc08RHd	pc08RHu	pc08-	0	0	2908	0

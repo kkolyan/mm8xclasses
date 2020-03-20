@@ -15,3 +15,5 @@ Vampire	30	3	10	2	P
 Nosferatu	30	4	10	4	P
 Dragon	50	10	50	5	I
 GreatWyrm	50	10	50	10	I
+Druid	20	2	25	3	IP
+GreatDruid	20	3	25	5	IP
