@@ -1,3 +1,6 @@
+# Version
+0.1
+
 # Description
 This is a mod for Might and Magic VIII: Day of Destroyer, that adds few new playable characters to the game.
 It was developed with attention to save original game balance.
