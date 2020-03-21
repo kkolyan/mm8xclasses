@@ -1,0 +1,50 @@
+# Description
+This is a mod for Might and Magic VIII: Day of Destroyer, that adds few new playable characters to the game.
+It was developed with attention to save original game balance.
+
+# How to use
+1. Install GOG version of Might and Magic VII: Day of Destroyer.
+2. Install GrayFace patch: https://grayface.github.io/mm/#GrayFace-MM8-Patch (I used version 2.4.1)
+3. Install MMExtension (I used v2.2).
+    The easies way to do it is to download https://www.dropbox.com/s/qohxt8ijjh74mcw/MMExtensionTmp.rar?dl=1 and extract
+    it to the game folder with replacement.
+3. Extract this archive to the folder with game with replacement.
+4. Play! Note that new characters aren't available to start game with. It's ok - you can change class of any character
+    to new class by speaking with special teacher. All these teachers lives at the starting area (on a Dagger Wound Isle)
+
+# Facts
+- compatible with saves from non-modded game.
+- should work with any localization, but new dialog options and class names will be in English.
+- dragons can be converted to new classes too, but it doesn't worth it, because they loose firebreathing and do not gain ability to wear clothes.
+
+# Credits
+- NWC for great game series
+- Guy from Nerd Commando for inspiration in his solo letsplays.
+- GrayFace for the invaluable contribution in modding tools
+- Rodril for the valuable hints regarding modding and for leading "MM678 Merge" project as source of examples and snippets.
+
+# Details
+
+## New classes
+
+### Sorcerer
+Very similar to Necromancer, but has Light Magic skill instead of Dark magic.
+Can be promoted to Wizard.
+
+### Druid
+Very similar to Necromancer, but has Body, mind and Spirit Magic skills instead of Dark Magic.
+Can be promoted to Great Druid.
+
+# Justification of "class transformation" solution
+I decided to not add new classes to the starting menu to avoid following problems.
+
+### Problem with portraits:
+- I could add new dedicated portraits for new classes, but I cannot draw them.
+- I could use 4 portraits from MM7 or MM6, but there is no fair answer about which exactly. Also they style differs
+    from the MM* style.
+- I could choose 4 portraits from available for another classes, but it'll look weird to see the same portraits for another class in the
+    character selection menu - player could even miss that it is another class. And there is still problem with fair
+    choice of dedicated portraits. Also it is more complex than current solution.
+
+### Problem with having more than one character of new class in party.
+- I could add new hireable NPCs in game, but it is more complex than current solution. Also it adds mess with portrait selection.
