@@ -17,3 +17,5 @@
 15	8	1	Great Wyrm
 16	9	0	Druid
 17	9	1	Great Druid
+18	10	0	Sorcerer
+19	10	1	Wizard

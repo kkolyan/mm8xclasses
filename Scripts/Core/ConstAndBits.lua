@@ -700,7 +700,9 @@ else
 		Dragon = 14,
 		GreatWyrm = 15,
 		Druid = 16,
-		GreatDruid = 17
+		GreatDruid = 17,
+		Sorcerer = 18,
+		Wizard = 19
 	}
 end
 

@@ -1,40 +1,40 @@
-	Necromancer	Cleric	Knight	Troll	Minotaur	DarkElf	Vampire	Dragon	Druid
-Staff	F	C	-	C	C	-	-	-	C
-Sword	-	-	F	C	-	C	F	-	-
-Dagger	C	-	-	-	-	C	C	-	F
-Axe	-	-	C	C	F	-	C	-	-
-Spear	-	-	C	-	C	-	-	-	-
-Bow	-	-	C	C	-	F	-	-	-
-Mace	-	F	-	F	C	-	-	-	-
-Blaster	-	-	-	-	-	-	-	-	-
-Shield	-	C	C	-	-	-	C	-	-
-Leather	C	C	F	C	C	C	C	-	C
-Chain	-	-	C	-	C	-	-	-	-
-Plate	-	-	-	-	-	-	-	-	-
-Fire	C	-	-	-	-	C	-	-	C
-Air	C	-	-	-	-	C	-	-	C
-Water	C	-	-	-	-	-	-	-	C
-Earth	-	-	-	-	-	-	-	-	F
-Spirit	-	C	-	-	F	-	-	-	C
-Mind	-	C	-	-	-	-	C	-	-
-Body	-	F	-	-	-	-	-	-	C
-Light	-	-	-	-	-	-	-	-	-
-Dark	F	-	-	-	-	-	-	-	-
-DarkElfAbility	-	-	-	-	-	F	-	-	-
-VampireAbility	-	-	-	-	-	-	F	-	-
-DragonAbility	-	-	-	-	-	-	-	F	-
-IdentifyItem	-	-	-	-	-	C	-	-	-
-Merchant	-	C	-	-	-	C	-	-	-
-Repair	-	-	C	C	-	-	-	-	-
-Bodybuilding	-	-	C	C	C	-	-	-	-
-Meditation	C	C	-	-	-	-	-	-	C
-Perception	-	C	C	-	C	C	-	-	-
-Regeneration	-	-	-	F	-	-	C	-	-
-DisarmTraps	-	-	-	-	C	C	C	-	-
-Dodging	-	-	-	-	-	-	-	-	-
-Unarmed	-	-	-	-	-	-	-	-	-
-IdentifyMonster	C	-	-	C	-	-	C	-	C
-Armsmaster	-	-	C	C	C	-	-	-	-
-Stealing	-	-	-	-	-	-	-	-	-
-Alchemy	C	-	-	-	-	-	C	-	C
-Learning	C	C	-	-	-	-	-	-	-
+	Necromancer	Cleric	Knight	Troll	Minotaur	DarkElf	Vampire	Dragon	Druid	Sorcerer
+Staff	F	C	-	C	C	-	-	-	C	F
+Sword	-	-	F	C	-	C	F	-	-	-
+Dagger	C	-	-	-	-	C	C	-	F	C
+Axe	-	-	C	C	F	-	C	-	-	-
+Spear	-	-	C	-	C	-	-	-	-	-
+Bow	-	-	C	C	-	F	-	-	-	-
+Mace	-	F	-	F	C	-	-	-	-	-
+Blaster	-	-	-	-	-	-	-	-	-	-
+Shield	-	C	C	-	-	-	C	-	-	-
+Leather	C	C	F	C	C	C	C	-	C	C
+Chain	-	-	C	-	C	-	-	-	-	-
+Plate	-	-	-	-	-	-	-	-	-	-
+Fire	C	-	-	-	-	C	-	-	C	C
+Air	C	-	-	-	-	C	-	-	C	F
+Water	C	-	-	-	-	-	-	-	C	C
+Earth	-	-	-	-	-	-	-	-	F	C
+Spirit	-	C	-	-	F	-	-	-	C	-
+Mind	-	C	-	-	-	-	C	-	-	-
+Body	-	F	-	-	-	-	-	-	C	-
+Light	-	-	-	-	-	-	-	-	-	-
+Dark	F	-	-	-	-	-	-	-	-	-
+DarkElfAbility	-	-	-	-	-	F	-	-	-	-
+VampireAbility	-	-	-	-	-	-	F	-	-	-
+DragonAbility	-	-	-	-	-	-	-	F	-	-
+IdentifyItem	-	-	-	-	-	C	-	-	-	-
+Merchant	-	C	-	-	-	C	-	-	-	-
+Repair	-	-	C	C	-	-	-	-	-	-
+Bodybuilding	-	-	C	C	C	-	-	-	-	-
+Meditation	C	C	-	-	-	-	-	-	C	C
+Perception	-	C	C	-	C	C	-	-	-	-
+Regeneration	-	-	-	F	-	-	C	-	-	-
+DisarmTraps	-	-	-	-	C	C	C	-	-	-
+Dodging	-	-	-	-	-	-	-	-	-	-
+Unarmed	-	-	-	-	-	-	-	-	-	-
+IdentifyMonster	C	-	-	C	-	-	C	-	C	C
+Armsmaster	-	-	C	C	C	-	-	-	-	-
+Stealing	-	-	-	-	-	-	-	-	-	-
+Alchemy	C	-	-	-	-	-	C	-	C	C
+Learning	C	C	-	-	-	-	-	-	-	C

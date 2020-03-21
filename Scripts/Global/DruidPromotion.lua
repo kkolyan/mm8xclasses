@@ -12,12 +12,15 @@ local give = "A-ha-ha, Yes, air, water, trees, hot fairies... Such a good time i
 function promoteDruids()
     for i = 0, 4 do
         evt.ForPlayer(i)
-        if evt.Cmp("ClassIs", const.Class.Druid) then
-            evt.Set("ClassIs", const.Class.GreatDruid)
-            evt.Add("Experience", 35000)
-            evt.Subtract("Inventory", 638)         -- Druid Circlet of Power
-        else
-            evt.Add("Experience", 25000)
+        if not evt.Cmp("Awards", 106) then
+            if evt.Cmp("ClassIs", const.Class.Druid) then
+                evt.Set("ClassIs", const.Class.GreatDruid)
+                evt.Add("Experience", 35000)
+                evt.Subtract("Inventory", 638)         -- Druid Circlet of Power
+            else
+                evt.Add("Experience", 25000)
+            end
+            evt.Add("Awards", 106)
         end
     end
 end

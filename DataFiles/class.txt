@@ -17,8 +17,8 @@ Dragon	"The noble race of Dragons rarely involve themselves in the affairs of th
 Great Wyrm	Dragons who have survived to become Great Wyrms are the largest and wisest of their kind. Legend tells of entire armies that have fallen before the might of just one Great Wyrm.	Great Wyrm
 Druid	Neutral sorcerer. Specialized in both Elemental and Self schools, but ignoring Mirror paths.	Druid
 Great Druid	Advanced rank of Druid	Great Druid
-Delete me	Delete me	Delete me
-Delete me	Delete me	Delete me
+Sorcerer 	Light sorcerer. The same as Necromancer, but Light instead Dark	Sorcerer
+Wizard	Advanced rank of Sorcerer	Wizard
 Delete me	Delete me	Delete me
 Delete me	Delete me	Delete me
 Delete me	Delete me	Delete me

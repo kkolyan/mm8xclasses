@@ -17,3 +17,5 @@ Dragon	50	10	50	5	I
 GreatWyrm	50	10	50	10	I
 Druid	20	2	25	3	IP
 GreatDruid	20	3	25	5	IP
+Sorcerer	20	2	25	3	I
+Wizard	20	3	25	5	I

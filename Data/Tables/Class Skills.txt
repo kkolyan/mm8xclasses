@@ -1,40 +1,40 @@
-	Necromancer	Lich	Cleric	PriestLight	Knight	Champion	Troll	WarTroll	Minotaur	MinotaurLord	DarkElf	Patriarch	Vampire	Nosferatu	Dragon	GreatWyrm	Druid	GreatDruid
-Staff	M	M	E	E	E	E	M	G	M	M	-	-	-	-	-	-	M	M
-Sword	-	-	-	-	M	G	M	M	E	E	M	M	M	M	-	-	-	-
-Dagger	E	E	-	-	E	E	E	E	E	E	M	M	M	G	-	-	E	E
-Axe	-	-	-	-	M	M	M	M	M	G	-	-	E	E	-	-	-	-
-Spear	-	-	-	-	M	G	E	E	M	M	-	-	-	-	-	-	-	-
-Bow	B	B	B	B	E	E	B	B	E	E	M	G	B	B	-	-	B	B
-Mace	-	-	M	M	M	M	M	G	M	M	B	B	E	E	-	-	E	E
-Blaster	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Shield	-	-	M	M	M	G	-	-	-	-	E	E	M	M	-	-	E	E
-Leather	E	E	E	E	E	E	M	G	E	E	M	M	M	M	-	-	E	E
-Chain	-	-	E	E	M	M	E	E	M	M	M	G	E	E	-	-	-	-
-Plate	-	-	-	-	M	G	-	-	M	M	-	-	-	-	-	-	-	-
-Fire	M	G	-	-	-	-	-	-	-	-	E	M	-	-	-	-	M	G
-Air	M	G	-	-	-	-	-	-	-	-	E	M	-	-	-	-	M	G
-Water	M	G	-	-	-	-	-	-	-	-	E	M	-	-	-	-	M	G
-Earth	M	G	-	-	-	-	-	-	-	-	E	M	-	-	-	-	M	G
-Spirit	-	-	M	G	-	-	-	-	B	E	-	-	E	M	-	-	M	G
-Mind	-	-	M	G	-	-	-	-	B	E	-	-	E	M	-	-	M	G
-Body	-	-	M	G	-	-	-	-	B	E	-	-	E	M	-	-	M	G
-Light	-	-	M	G	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Dark	M	G	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-DarkElfAbility	-	-	-	-	-	-	-	-	-	-	M	G	-	-	-	-	-	-
-VampireAbility	-	-	-	-	-	-	-	-	-	-	-	-	M	G	-	-	-	-
-DragonAbility	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M	G	-	-
-IdentifyItem	M	M	-	-	-	-	-	-	-	-	M	M	E	E	M	G	M	M
-Merchant	E	E	M	M	E	E	B	B	E	E	M	G	E	E	E	E	E	E
-Repair	-	-	E	E	M	G	M	M	-	-	E	E	-	-	-	-	-	-
-Bodybuilding	-	-	B	B	M	M	M	G	M	M	-	-	-	-	M	M	-	-
-Meditation	M	G	M	M	-	-	-	-	-	-	E	E	-	-	M	M	M	G
-Perception	B	B	E	E	E	E	B	B	M	G	M	M	E	E	M	G	B	B
-Regeneration	-	E	-	-	-	-	M	G	-	-	-	-	E	M	E	E	-	-
-DisarmTraps	B	B	-	-	E	E	B	B	M	M	M	G	E	E	-	-	B	B
-Dodging	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Unarmed	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-IdentifyMonster	M	M	-	-	B	B	E	E	-	-	-	-	M	G	M	M	M	M
-Armsmaster	-	-	B	B	M	G	M	M	M	M	E	E	B	B	-	-	-	-
-Stealing	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Alchemy	M	G	E	E	-	-	-	-	B	B	E	E	M	M	M	M	E	M
-Learning	M	G	E	E	B	B	B	B	B	B	E	E	B	B	M	G	E	M
+	Necromancer	Lich	Cleric	PriestLight	Knight	Champion	Troll	WarTroll	Minotaur	MinotaurLord	DarkElf	Patriarch	Vampire	Nosferatu	Dragon	GreatWyrm	Druid	GreatDruid	Sorcerer	Wizard
+Staff	M	M	E	E	E	E	M	G	M	M	-	-	-	-	-	-	M	M	M	M
+Sword	-	-	-	-	M	G	M	M	E	E	M	M	M	M	-	-	-	-	-	-
+Dagger	E	E	-	-	E	E	E	E	E	E	M	M	M	G	-	-	E	E	E	E
+Axe	-	-	-	-	M	M	M	M	M	G	-	-	E	E	-	-	-	-	-	-
+Spear	-	-	-	-	M	G	E	E	M	M	-	-	-	-	-	-	-	-	-	-
+Bow	B	B	B	B	E	E	B	B	E	E	M	G	B	B	-	-	B	B	B	B
+Mace	-	-	M	M	M	M	M	G	M	M	B	B	E	E	-	-	E	E	-	-
+Blaster	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Shield	-	-	M	M	M	G	-	-	-	-	E	E	M	M	-	-	E	E	-	-
+Leather	E	E	E	E	E	E	M	G	E	E	M	M	M	M	-	-	E	E	E	E
+Chain	-	-	E	E	M	M	E	E	M	M	M	G	E	E	-	-	-	-	-	-
+Plate	-	-	-	-	M	G	-	-	M	M	-	-	-	-	-	-	-	-	-	-
+Fire	M	G	-	-	-	-	-	-	-	-	E	M	-	-	-	-	M	G	M	G
+Air	M	G	-	-	-	-	-	-	-	-	E	M	-	-	-	-	M	G	M	G
+Water	M	G	-	-	-	-	-	-	-	-	E	M	-	-	-	-	M	G	M	G
+Earth	M	G	-	-	-	-	-	-	-	-	E	M	-	-	-	-	M	G	M	G
+Spirit	-	-	M	G	-	-	-	-	B	E	-	-	E	M	-	-	M	G	-	-
+Mind	-	-	M	G	-	-	-	-	B	E	-	-	E	M	-	-	M	G	-	-
+Body	-	-	M	G	-	-	-	-	B	E	-	-	E	M	-	-	M	G	-	-
+Light	-	-	M	G	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M	G
+Dark	M	G	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+DarkElfAbility	-	-	-	-	-	-	-	-	-	-	M	G	-	-	-	-	-	-	-	-
+VampireAbility	-	-	-	-	-	-	-	-	-	-	-	-	M	G	-	-	-	-	-	-
+DragonAbility	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M	G	-	-	-	-
+IdentifyItem	M	M	-	-	-	-	-	-	-	-	M	M	E	E	M	G	M	M	M	M
+Merchant	E	E	M	M	E	E	B	B	E	E	M	G	E	E	E	E	E	E	E	E
+Repair	-	-	E	E	M	G	M	M	-	-	E	E	-	-	-	-	-	-	-	-
+Bodybuilding	-	-	B	B	M	M	M	G	M	M	-	-	-	-	M	M	-	-	-	-
+Meditation	M	G	M	M	-	-	-	-	-	-	E	E	-	-	M	M	M	G	M	G
+Perception	B	B	E	E	E	E	B	B	M	G	M	M	E	E	M	G	B	B	B	B
+Regeneration	-	E	-	-	-	-	M	G	-	-	-	-	E	M	E	E	-	-	-	E
+DisarmTraps	B	B	-	-	E	E	B	B	M	M	M	G	E	E	-	-	B	B	B	B
+Dodging	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Unarmed	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+IdentifyMonster	M	M	-	-	B	B	E	E	-	-	-	-	M	G	M	M	M	M	M	M
+Armsmaster	-	-	B	B	M	G	M	M	M	M	E	E	B	B	-	-	-	-	-	-
+Stealing	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Alchemy	M	G	E	E	-	-	-	-	B	B	E	E	M	M	M	M	E	M	M	G
+Learning	M	G	E	E	B	B	B	B	B	B	E	E	B	B	M	G	E	M	M	G
